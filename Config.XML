@@ -1,0 +1,9 @@
+<Root>
+  <AxSerialPort>
+    <SerialPort Value="COM18" />
+    <Boudrate Value="115200" />
+    <Databit Value="8" />
+    <Parity Value="NONE" />
+    <Stopbit Value="1" />
+  </AxSerialPort>
+</Root>
